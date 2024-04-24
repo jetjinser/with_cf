@@ -1,0 +1,4 @@
+(executable
+ (public_name with_cf)
+ (name main)
+ (libraries with_cf))
